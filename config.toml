@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://wiki.mnsh.me/'
 languageCode = 'en-us'
 title = 'MNSH WIKI'
 theme = "hugo-book"
