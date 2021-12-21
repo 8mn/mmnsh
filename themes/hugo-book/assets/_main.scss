@@ -57,7 +57,7 @@ aside nav ul {
   }
 
   a:hover {
-    opacity: 0.5;
+    opacity: 0.7;
   }
 
   ul {
@@ -97,12 +97,16 @@ ul.pagination {
 
 .book-menu {
   flex: 0 0 $menu-width;
-  font-size: $font-size-14;
+  font-size: $font-size-16;
 
   .book-menu-content {
     width: $menu-width;
     padding: $padding-16;
     background: var(--body-background);
+    // background-color:aqua;
+    border-right: 2px solid #eeee;
+   color: var(--gray-800);
+    // background-color: rgb(245, 247, 249);
 
     @include fixed;
   }
@@ -116,6 +120,7 @@ ul.pagination {
 
   a.active {
     color: var(--color-link);
+    // text-decoration:underline;
   }
 
   input.toggle + label + ul {
@@ -127,11 +132,11 @@ ul.pagination {
   }
 
   input.toggle + label::after {
-    content: "▸";
+    content: "▶";
   }
 
   input.toggle:checked + label::after {
-    content: "▾";
+    content: "▼";
   }
 }
 
@@ -196,7 +201,7 @@ body[dir="rtl"] .book-menu {
     border: 0;
     border-radius: $border-radius;
 
-    background: var(--gray-100);
+    background: var(--gray-200);
     color: var(--body-font-color);
 
     &:required + .book-search-spinner {
@@ -227,12 +232,12 @@ body[dir="rtl"] .book-menu {
 
 .book-toc {
   flex: 0 0 $toc-width;
-  font-size: $font-size-12;
-
+  font-size: $font-size-14;
+  
   .book-toc-content {
     width: $toc-width;
     padding: $padding-16;
-
+    border-left: 2px solid #eeee;
     @include fixed;
   }
 
