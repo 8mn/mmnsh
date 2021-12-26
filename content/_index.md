@@ -1,17 +1,18 @@
 ---
 title: Introduction
 type: docs
+date: 2021-12-26
 ---
 
 # Hello, World!
 
-This is my personal wiki where I share everything I know about this world In form of a website.
+Its a collection of essays, notes, and half-baked explorations I'm always tending to.
 
 
 
-## What is this site? Why this exists?
+## Why this exists?
 
-Its a collection of essays, notes, and half-baked explorations I'm always tending to. Rather than presenting a set of polished articles, displayed in reverse chronological order, this site act more like free form, work-in-progress wiki. Also the idea of blog sounded redundant, I am always seeking things that are out of “convention”, this wiki is one of them.
+ Rather than presenting a set of polished articles, displayed in reverse chronological order, this site act more like free form, work-in-progress wiki. Also the idea of blog sounded redundant, I am always seeking things that are out of “convention”, this wiki is one of them.
 
 
 ## Grow your own digital garden
