@@ -1,5 +1,5 @@
 ---
-bookHidden: true
+bookHidden: false
 ---
 
 # Design Inspiration

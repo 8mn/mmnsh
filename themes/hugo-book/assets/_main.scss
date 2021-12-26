@@ -48,16 +48,22 @@ aside nav ul {
   list-style: none;
 
   li {
-    margin: 1em 0;
+    margin: .6em 0;
     position: relative;
+    padding: 5px;
+  }
+  li:hover{
+    // background-color: var(--gray-200);
   }
 
   a {
     display: block;
+    // margin: 5px;
   }
 
   a:hover {
     opacity: 0.7;
+    text-decoration: underline;
   }
 
   ul {
@@ -120,7 +126,9 @@ ul.pagination {
 
   a.active {
     color: var(--color-link);
+    // opacity: .7;
     // text-decoration:underline;
+    // background-color: var(--gray-1/00);
   }
 
   input.toggle + label + ul {

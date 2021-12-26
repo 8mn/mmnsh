@@ -2,5 +2,4 @@
 bookHidden: true
 ---
 
-# Design Inspiration
-
+# Meditation

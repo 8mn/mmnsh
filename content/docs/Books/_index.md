@@ -3,51 +3,40 @@ bookHidden: false
 bookCollapseSection: true
 ---
 
-# This page is hidden in menu
+# BOOKS
 
-# Quondam non pater est dignior ille Eurotas
+ I read a lot of books(and you should too), It has become a habit now. Nothing gives me as much pleasure as reading a good book.
+{{< hint info >}}
+You read books because you can't meet enough people in your lifetime.
+{{< /hint >}}
 
-## Latent te facies
+## How to read books(fast)
+Here are the tips from one of my favourite author mark manson.
 
-Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus,
-frementes, qui in vel. Hippotades Peleus [pennas
-conscia](http://gratia.net/tot-qua.php) cuiquam Caeneus quas.
+If a 500 page book seems daunting to you, you read too slowly. Here are some
+tips to speed the process up:
+- Once you get the point of a section (non-fiction), move on or skim the rest
+of  it.  This  is  huge.  I  probably  only  actually  read  2/3  of  the  actual  words
+someone writes.
+- If the book is written poorly or you don’t enjoy it, stop reading it. It’s OK.
+No reason to torture yourself. Just be sure you know WHY you don’t like it.
+- If  a  book  only  has  a  few  chapters  you’re  interested  in,  just  read  those
+chapters.
+- If you feel like an author is being long-winded, skim sections until you get
+to a part that really interests you again.
+- Push yourself to read as fast as you can without missing information. You
+can probably read twice as fast as you think you can, you just don’t try to.
+- Use your finger underneath the lines as you read, believe it or not, this will
+allow you to comprehend the words faster.
 
-- Pater demittere evincitque reddunt
-- Maxime adhuc pressit huc Danaas quid freta
-- Soror ego
-- Luctus linguam saxa ultroque prior Tatiumque inquit
-- Saepe liquitur subita superata dederat Anius sudor
+## How to start reading books
+Initially start with books that interest you or talk to your friend who read books. I used to mostly read self-help books to learn about human behavivour. Books like **[The magic of thinking big](https://www.amazon.com/Magic-Thinking-Big-David-Schwartz/dp/0671646788)** and articles from **[waitbutwhy](https://waitbutwhy.com/)** blew my mind. This all started a chain reaction to explore more about humans and question things that everybody takes for granted.
 
-## Cum honorum Latona
+## Here are some resources which will help you find good books
+- [https://hacker-recommended-books.vercel.app](https://hacker-recommended-books.vercel.app)
+- [r/books](https://www.reddit.com/r/books/)
+- [r/suggestmeabook](https://www.reddit.com/r/suggestmeabook/): Sort by top
+- Suggestion by authors
+- Check out “Best Books Ever Written” lists online. You’ll notice the same few
+dozen books coming up over and over again.
 
-O fallor [in sustinui
-iussorum](http://www.spectataharundine.org/aquas-relinquit.html) equidem.
-Nymphae operi oris alii fronde parens dumque, in auro ait mox ingenti proxima
-iamdudum maius?
-
-    reality(burnDocking(apache_nanometer),
-            pad.property_data_programming.sectorBrowserPpga(dataMask, 37,
-            recycleRup));
-    intellectualVaporwareUser += -5 * 4;
-    traceroute_key_upnp /= lag_optical(android.smb(thyristorTftp));
-    surge_host_golden = mca_compact_device(dual_dpi_opengl, 33,
-            commerce_add_ppc);
-    if (lun_ipv) {
-        verticalExtranet(1, thumbnail_ttl, 3);
-        bar_graphics_jpeg(chipset - sector_xmp_beta);
-    }
-
-## Fronde cetera dextrae sequens pennis voce muneris
-
-Acta cretus diem restet utque; move integer, oscula non inspirat, noctisque
-scelus! Nantemque in suas vobis quamvis, et labori!
-
-    var runtimeDiskCompiler = home - array_ad_software;
-    if (internic > disk) {
-        emoticonLockCron += 37 + bps - 4;
-        wan_ansi_honeypot.cardGigaflops = artificialStorageCgi;
-        simplex -= downloadAccess;
-    }
-    var volumeHardeningAndroid = pixel + tftp + onProcessorUnmount;
-    sector(memory(firewire + interlaced, wired));

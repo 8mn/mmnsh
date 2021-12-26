@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'MNSH WIKI'
 theme = "hugo-book"
 
+[params]
+  BookRepo = 'https://github.com/8mn/mmnsh'

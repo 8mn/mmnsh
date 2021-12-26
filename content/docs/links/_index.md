@@ -1,4 +1,0 @@
----
-bookHidden: false
-bookCollapseSection: false
----
